@@ -25,7 +25,7 @@ function selectPalette(palette) {
 
 
 //fetch JSON file, get data
-fetch('user.json').then(function (response) {
+fetch('/user.json').then(function (response) {
     return response.json();
 }).then(function (obj) { //turn data into a javascript object
     selectPalette(obj.Colorway); //select default palette based on the data in user.json
