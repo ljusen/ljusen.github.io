@@ -4,7 +4,43 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c39740ab-1ba2-4294-bb38-905af7ccf462" name="Changes" comment="" />
+    <list default="true" id="c39740ab-1ba2-4294-bb38-905af7ccf462" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/ljusen.github.io.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/artGallery/art1.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/artGallery/art2.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/artGallery/art3.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/hero.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/smLinks/instaCoffee.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/smLinks/instaDark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/smLinks/instaLight.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/smLinks/mailCoffee.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/smLinks/mailDark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/smLinks/mailLight.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/smLinks/twitCoffee.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/smLinks/twitDark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/smLinks/twitLight.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/CSS/coffee.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/CSS/dark.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/CSS/light.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/CSS/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/HTML/art.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/HTML/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/HTML/pref.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/JS/art.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/JS/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/JS/pref.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/user.json" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,6 +83,7 @@
       <recent name="C:\Users\aster\OneDrive\Documents\GitHub\ljusen.github.io\pages" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\aster\OneDrive\Documents\GitHub\ljusen.github.io" />
       <recent name="C:\Users\aster\OneDrive\Documents\GitHub\ljusen.github.io\pages\HTML" />
       <recent name="C:\Users\aster\OneDrive\Documents\GitHub\ljusen.github.io\pages\JS" />
       <recent name="C:\Users\aster\OneDrive\Documents\GitHub\ljusen.github.io\pages\CSS" />
