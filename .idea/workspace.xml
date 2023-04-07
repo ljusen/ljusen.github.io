@@ -5,31 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c39740ab-1ba2-4294-bb38-905af7ccf462" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/images/artGallery/art1.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/artGallery/art2.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/artGallery/art3.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/hero.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/smLinks/instaCoffee.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/smLinks/instaDark.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/smLinks/instaLight.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/smLinks/mailCoffee.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/smLinks/mailDark.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/smLinks/mailLight.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/smLinks/twitCoffee.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/smLinks/twitDark.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/smLinks/twitLight.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/CSS/coffee.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/CSS/dark.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/CSS/light.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/CSS/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/HTML/art.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/HTML/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/HTML/pref.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/JS/art.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/JS/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/JS/pref.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/user.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/HTML/art.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/HTML/art.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/HTML/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/HTML/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/HTML/pref.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/HTML/pref.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,10 +45,23 @@
     "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "jdk.selected.JAVA_MODULE": "openjdk-19",
     "last_opened_file_path": "C:/Users/aster/OneDrive/Documents/GitHub/ljusen.github.io"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\aster\OneDrive\Documents\GitHub\ljusen.github.io" />
+      <recent name="C:\Users\aster\OneDrive\Documents\GitHub\ljusen.github.io\pages" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\aster\OneDrive\Documents\GitHub\ljusen.github.io\pages\HTML" />
+      <recent name="C:\Users\aster\OneDrive\Documents\GitHub\ljusen.github.io\pages\JS" />
+      <recent name="C:\Users\aster\OneDrive\Documents\GitHub\ljusen.github.io\pages\CSS" />
+      <recent name="C:\Users\aster\OneDrive\Documents\GitHub\ljusen.github.io\pages" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">

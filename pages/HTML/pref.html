@@ -2,9 +2,43 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Ljusen.com</title>
+    <title>Aster's Website</title>
+    <link id="icon" rel="icon" type="image/x-icon" href="../images/logo.png">
+    <link id="stylesheet" rel="stylesheet" href="../CSS/styles.css">
+    <link id="colorway" rel="stylesheet">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
-<body>
 
-</body>
+<nav>
+    <!-- Links to other pages -->
+    <a class="aClass" href="index.html">Home</a>
+    <a class="aClass" href="art.html">Art</a>
+    <a class="aClass" href="pref.html">User Form</a>
+
+    <!-- Palette Selectors -->
+    <a class="smallBtn" id="light">Light</a>
+    <a class="smallBtn" id="dark">Dark</a>
+    <a class="smallBtn" id="coffee">Coffee</a>
+</nav>
+
+
+<form class="userForm" id="form">
+    <h2>User Experience Form</h2>
+    <label for="formDevice">What device are you accessing this website on currently?</label><br>
+    <input class="formText" style="width: 75%; padding: 10px; border-radius: 10px; margin: 10px 0px 10px 0px;" type="text" id="formDevice" name="formDevice"><br>
+
+    <div style="margin: 50px 0px 10px 0px;">
+        <p>Have you had problems with the accessibility of this website?</p>
+        <input style="width: 10%; margin: 8px;" type="radio" id="issuesBoolTrue" name="issuesBool"><label for="issuesBoolTrue">Yes</label><br>
+        <input style="width: 10%; margin: 8px;" type="radio" id="issuesBoolFalse" name="issuesBool"><label for="issuesBoolFalse">No</label>
+    </div>
+
+    <label for="message">If yes, what were they?</label><br>
+    <textarea class="formText" id="message" name="message" rows="10" cols="30"></textarea>
+
+    <input style="width: 100px; height: 30px; color: black; text-shadow: none;" type="submit" value="submit">
+</form>
+
+
+<script src="../JS/pref.js"></script>
 </html>
