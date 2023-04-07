@@ -5,7 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c39740ab-1ba2-4294-bb38-905af7ccf462" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/pages/HTML/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/CSS/coffee.css" beforeDir="false" afterPath="$PROJECT_DIR$/coffee.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/CSS/dark.css" beforeDir="false" afterPath="$PROJECT_DIR$/dark.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/CSS/light.css" beforeDir="false" afterPath="$PROJECT_DIR$/light.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/CSS/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/HTML/art.html" beforeDir="false" afterPath="$PROJECT_DIR$/art.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/HTML/pref.html" beforeDir="false" afterPath="$PROJECT_DIR$/pref.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/JS/art.js" beforeDir="false" afterPath="$PROJECT_DIR$/art.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/JS/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/JS/pref.js" beforeDir="false" afterPath="$PROJECT_DIR$/pref.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/user.json" beforeDir="false" afterPath="$PROJECT_DIR$/user.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,10 +59,10 @@
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\aster\OneDrive\Documents\GitHub\ljusen.github.io" />
+      <recent name="C:\Users\aster\OneDrive\Documents\GitHub\ljusen.github.io\pages" />
       <recent name="C:\Users\aster\OneDrive\Documents\GitHub\ljusen.github.io\pages\HTML" />
       <recent name="C:\Users\aster\OneDrive\Documents\GitHub\ljusen.github.io\pages\JS" />
       <recent name="C:\Users\aster\OneDrive\Documents\GitHub\ljusen.github.io\pages\CSS" />
-      <recent name="C:\Users\aster\OneDrive\Documents\GitHub\ljusen.github.io\pages" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
