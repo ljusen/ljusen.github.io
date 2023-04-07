@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c39740ab-1ba2-4294-bb38-905af7ccf462" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/CSS.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/HTML/art.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/HTML/art.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/HTML/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/HTML/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/HTML/pref.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/HTML/pref.html" afterDir="false" />
-    </list>
+    <list default="true" id="c39740ab-1ba2-4294-bb38-905af7ccf462" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
