@@ -2,20 +2,20 @@
 function selectPalette(palette) {
 //change css file used for palette-related styling
     if (palette === "dark"){
-        document.getElementById('colorway').href='../CSS/dark.css';}
+        document.getElementById('colorway').href='/dark.css';}
     //same function as above, accounts for different input
     else if (palette == 'light'){
-        document.getElementById('colorway').href='../CSS/light.css';
+        document.getElementById('colorway').href='/light.css';
     }
     //same function as above, accounts for different input
     else if (palette == 'coffee'){
-        document.getElementById('colorway').href='../CSS/coffee.css';
+        document.getElementById('colorway').href='/coffee.css';
     }
 }
 
 
 //fetch JSON file, get data
-fetch('../user.json').then(function (response) {
+fetch('/user.json').then(function (response) {
     return response.json();
 }).then(function (obj) { //turn data into a javascript object
     selectPalette(obj.Colorway); //select default palette based on the data in user.json
