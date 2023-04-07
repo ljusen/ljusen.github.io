@@ -1,0 +1,44 @@
+*                   {text-color: #1c0a0a;}
+
+
+body                {background-color:  #d9ae74;}
+form .h2            {background-color:  #d9ae74;}
+.backdrop           {background-color:  #d9ae74;}
+table               {background-color:  #d9ae74;}
+.userForm h2        {background-color:  #d9ae74;}
+
+nav                 {background-color:  #4f2a14;}
+.contacts           {background-color:  #4f2a14;}
+.contactsContainer  {background-color:  #4f2a14;}
+
+.formText           {background-color:  #a47249;}
+
+.artText            {background-color:  #ffffff;}
+
+
+a {
+color: #1c0a0a;
+background-color:   #a47249;
+border-bottom:      2px solid #1c0a0a;
+border-left:        2px solid #1c0a0a;
+border-top:         2px solid #a47249;
+border-right:       2px solid #a47249;
+}
+
+/*  When hovering over an <a> element, change the background color and the border colors to give a sense of depth*/
+a:hover {
+background-color:   #7d5737;
+border-bottom:      2px solid #a47249;
+border-left:        2px solid #a47249;
+border-top:         2px solid #1c0a0a;
+border-right:       2px solid #1c0a0a;
+}
+
+
+.mainArt{
+border:             10px solid #4f2a14;
+border-radius:      10px;
+}
+
+/* Breakpoints */
+@media only screen and (max-width: 600px) {.mainArt{background-color: #a47249;}}

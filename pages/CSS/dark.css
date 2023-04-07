@@ -1,0 +1,46 @@
+/* Set Text color, give text black outline */
+*{
+color: #f8f7f5;
+text-shadow:        -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
+}
+
+
+nav                 {background-color:  #191819;}
+.formText           {background-color:  #191819;}
+.backdrop           {background-color:  #191819;}
+
+body                {background-color:  #38373d;}
+.artText            {background-color:  #38373d;}
+table               {background-color:  #38373d;}
+.userForm h2        {background-color:  #38373d;}
+
+.contacts           {background-color:  #645e5e;}
+.contactsContainer  {background-color:  #645e5e;}
+
+
+a {
+color: #f8f7f5;
+background-color:   #645e5e;
+border-bottom:      2px solid black;
+border-left:        2px solid black;
+border-top:         2px solid #645e5e;
+border-right:       2px solid #645e5e;
+}
+
+/*  When hovering over an <a> element, change the background color and the border colors to give a sense of depth*/
+a:hover {
+background-color:   #191819;
+border-bottom:      2px solid #645e5e;
+border-left:        2px solid #645e5e;
+border-top:         2px solid black;
+border-right:       2px solid black;
+}
+
+.mainArt{
+border:             10px solid #333333;
+border-radius:      10px;
+}
+
+/* Breakpoints */
+@media only screen and (max-width: 600px) {.mainArt{background-color: #333333;}}
+@media only screen and (max-width: 800px) {.userForm h2    {background-color:  #645e5e;}}

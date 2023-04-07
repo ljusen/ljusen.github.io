@@ -1,0 +1,396 @@
+/* Set Default text styles */
+*{
+font-family: verdana;
+text-decoration: none;
+list-style-type: none;
+}
+
+/* Palette Pickers */
+.smallBtn{
+  width: 10vw;
+  padding: 4vh 0vh;
+  display: inline-block;
+  margin: 3vh 1vw;
+  text-align: center;
+}
+
+/* Remove any blank space bordering webpage */
+body{margin: 0px;}
+
+header > img{width: 100%;}/* Hero IMG */
+.formText{ text-shadow: none;}/* Form Text Input*/
+
+nav{
+height:         125px;
+position:       relative;
+}
+
+/* Intended for the main navigational structure, is used as a base for some other implementations of the <a> tag */
+.aClass {
+float:          left;
+font-size:      16px;
+display:        inline-block;
+text-align:     center;
+padding:        50px 0px 50px 0px;
+}
+
+/* Contact/Social Media section, specifically the background which the section is placed on */
+.contacts{
+position:       relative;
+height:         125px;
+width:          50%;
+}
+
+/* alternate color background used for texture in a page, i.e. immediately above the "contact me" portion */
+.backdrop{
+position:       relative;
+width:          100%;
+height:         30vh;
+}
+
+
+
+
+/* MOBILE */
+@media only screen and (max-width: 600px){
+  * {width:100%;}
+  .sideArtL, .sideArtR{display:none;}/* images displaying previous and next art pieces in art.html*/
+
+
+
+/* Contacts Section */
+
+  .smLinkContainer{         width:          100vw;  }/* contains social media Links (see line 59)*/
+  .contacts{                display:        none;   }/* Palette Pickers */
+    /* "social media Link", i.e. mail, instagram, twitter links */
+  .smLink{
+        position:   relative;
+        width:      20vw;
+        padding:    35px 2vw 50px 2vw;
+        height:     auto;
+        float:      none;
+  }
+    /* Container for .contacts */
+  .contactsContainer{
+        top:        20vh;
+        padding:    0px 10vw 0px 10vw;
+        position:   relative;
+  }
+
+
+/* Form Section */
+
+    /* Heading of User Experience Form */
+  .userForm h2 {
+        position:   absolute;
+        top:        -8vh;
+  }
+    /* General */
+  .userForm{
+        position:     absolute;
+        padding:      5vw;
+        margin:       5vw;
+        width:        75vw;
+        height:       100vh;
+        top:          110vh;
+  }
+
+  .backdrop{
+        top:        232px;
+        height:     100%;
+        z-index:    -1;
+  }
+
+  table{
+        position:   static;
+        top:        90%;
+        font-size:  20px;
+        left:       0px;
+ }
+
+/* Art Section */
+  .artArrowL{
+        position:   absolute;
+        top:        70px;
+        height:     150px;
+        width:      49%;
+        left:       0px;
+        z-index:    3;
+        padding:    0px;
+  }
+  .artArrowR{
+        position:   absolute;
+        top:        70px;
+        height:     150px;
+        width:      49%;
+        right:      0px;
+        z-index:    3;
+        padding:    0px;
+  }
+  .mainArt{
+        position:   relative;
+        top:        -25px;
+        padding:    5%;
+        width:      90%;
+        height      auto;
+        z-index:    3;
+  }
+  .artText{
+        position:   relative;
+        top:        25vh;
+        padding:    5%;
+        width:      90%;
+        height:     90%;
+        z-index:    2;
+  }
+
+  .smallBtn{
+        position: relative;
+        top: 0vh;
+        width: 90vw;
+        padding: 5vh 0vh;
+        margin: 2vh 3vw 2vh 3vw;
+  }
+
+  .artBtns .smallBtn{
+        top: 275vh;
+        margin: 1vh 3vw 4vh 3vw;
+  }
+}
+
+
+
+
+
+/* TABLET */
+@media only screen and (min-width: 600px) and (max-width: 800px) {
+
+    .sideArtL, .sideArtR{     display:        none;   }
+    nav{                      height:         90px;   }
+    .artText p{               margin:         0px;    }
+    .colorSelector table{     top:            0px;    }
+    .artBackdrop > table{     top:            -30vh;  }
+    .artBackdrop{             height:         inherit;}
+    .smLinkContainer{         width:          100vw;  }
+
+    .contacts{
+        top: 10vh;
+        margin: auto;
+        border-radius: 60px;
+    }
+
+    .smLink{
+        position: relative;
+        width: 9vw;
+        padding: 35px 2vw 50px 2vw;
+        height: auto;
+        float: right;
+    }
+
+    .contactsContainer{
+        top: -10vh;
+        padding: 0px 28vw 0px 28vw;
+    }
+
+    tr .aClass{
+        padding: 5vh 20vw;
+        width: 10vw;
+    }
+
+    .aClass{
+        width: 18%;
+        padding: 35px 0px 35px 0px;
+    }
+
+    .userForm{
+        border:       5px solid black;
+        position:     relative;
+        padding:      5vw;
+        margin:       5vw;
+        width:        80%;
+        top:          15vh;
+        z-index:      1;
+    }
+
+    .userForm h2{
+        position: relative;
+        font-size: 16px;
+        top: -80px;
+        left: 5vw;
+        border: 5px solid black;
+        padding: 20px;
+        border-radius: 10px;
+        width: 200px;
+        z-index: 2;
+    }
+
+    .backdrop{
+        top:        10px;
+        height:     38vh;
+        z-index:    -1;
+    }
+
+    table{
+        position:   relative;
+        width:      100%;
+        top:        10vh;
+        font-size:  20px;
+        left:       0px;
+    }
+
+    .artArrowL{
+        position:   absolute;
+        top:        1.5vh;
+        height:     17vh;
+        width:      12vw;
+        left:       1vw;
+        z-index:    2;
+        padding:    0px;
+    }
+
+    .artArrowR{
+        position:   absolute;
+        top:        19.5vh;
+        height:     17vh;
+        width:      12vw;
+        left:       1vw;
+        z-index:    2;
+        padding:    0px;
+    }
+
+    .mainArt{
+        position:   absolute;
+        left:       13vw;
+        width:      auto;
+        height:     35vh;
+        z-index:    3;
+    }
+
+    .artText{
+        float: right;
+        overflow:   scroll;
+        position:   relative;
+        top:        -35vh;
+        padding:    5%;
+        width:      40vw;
+        height:     25.5vh;
+        z-index:    2;
+    }
+
+    .smallBtn{
+        width: 10vw;
+        padding: 3.5vh 0vh;
+        margin: 1vh 1vw;
+    }
+}
+
+
+
+
+
+/* DESKTOP */
+@media only screen and (min-width: 800px) {
+  .aClass{                        width:          20%;    }
+  textArea{                 width:          98%;    }
+  .smLinkContainer{         width:          24vw;   }
+  table{                    height:         -webkit-fill-available;  }
+  /* Used for the palette selectors in prefs */
+    td > a{                   width:          250px;  }
+
+  td > div{
+        width:      20%;
+        margin:     auto;
+  }
+
+    .backdrop{
+        height:     -webkit-fill-available;
+        top:        1vh;
+    }
+
+    .userForm{
+        position:   relative;
+        margin:     5% 5% 0px 5%;
+        padding:    10px;
+        top:        0px;
+        border:     2px solid black;
+        width:      60vw;
+        height:     75%;
+    }
+
+    .sideArtL{
+        opacity:      40%;
+        position:     absolute;
+        height:       auto;
+        width:        15%;
+        top:          25%;
+        left:         22%;
+        z-index:      1;
+    }
+
+    .sideArtR{
+        opacity:      40%;
+        position:     absolute;
+        height:       auto;
+        width:        15%;
+        top:          25%;
+        right:        22%;
+        z-index:      1;
+    }
+
+    .mainArt{
+        position:     relative;
+        height:       auto;
+        width:        30%;
+        left:         35%;
+        top:          5vh;
+        z-index:      2;
+    }
+
+    .artArrowR{
+        position:   absolute;
+        height:     80px;
+        width:      80px;
+        top:        40%;
+        right:      20%;
+        z-index:    2;
+        padding:    0px;
+    }
+
+    .artArrowL{
+        position:   absolute;
+        height:     80px;
+        width:      80px;
+        top:        40%;
+        left:       20%;
+        z-index:    2;
+        padding:    0px;
+    }
+
+    .artText{
+        position: relative;
+        top: 1vh;
+        width: 90%;
+        padding: 5%;
+    }
+
+    .contacts{
+        top: 10vh;
+        margin: auto;
+        border-radius: 60px;
+    }
+
+    .smLink{
+        position: relative;
+        width: 3vw;
+        padding: 0px 2vw 50px 2vw;
+        height: auto;
+        float: right;
+    }
+
+    .contactsContainer{
+        top: -10vh;
+        padding: 0px 38vw 0px 38vw;
+    }
+}
+
+

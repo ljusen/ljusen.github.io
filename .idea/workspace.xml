@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c39740ab-1ba2-4294-bb38-905af7ccf462" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/images/artGallery/art1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/artGallery/art2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/artGallery/art3.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/hero.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/smLinks/instaCoffee.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/smLinks/instaDark.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/smLinks/instaLight.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/smLinks/mailCoffee.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/smLinks/mailDark.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/smLinks/mailLight.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/smLinks/twitCoffee.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/smLinks/twitDark.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/smLinks/twitLight.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/CSS/coffee.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/CSS/dark.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/CSS/light.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/CSS/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/HTML/art.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/HTML/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/HTML/pref.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/JS/art.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/JS/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/JS/pref.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/user.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2O5tmGR2zqKiRP2LgZ1GMexVHyR" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "jdk.selected.JAVA_MODULE": "openjdk-19",
+    "last_opened_file_path": "C:/Users/aster/OneDrive/Documents/GitHub/ljusen.github.io"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c39740ab-1ba2-4294-bb38-905af7ccf462" name="Changes" comment="" />
+      <created>1680862427125</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680862427125</updated>
+    </task>
+    <servers />
+  </component>
+</project>
